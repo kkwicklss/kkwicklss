@@ -8,7 +8,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![WordPress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
 
-<h2>My codewars profile:</h2>
+<h3>Мой профиль на codewars:</h3>
 
 <a href="https://www.codewars.com/users/kkwicklss">
 <img src="https://www.codewars.com/users/kkwicklss/badges/large">
