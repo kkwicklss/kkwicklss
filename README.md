@@ -7,6 +7,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![WordPress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
+![Angular](https://img.shields.io/badge/-Angular-333?style=for-the-badge&logo=Angular&logoColor=blue)
 
 <h3>Мой профиль на codewars:</h3>
 
