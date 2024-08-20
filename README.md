@@ -12,7 +12,7 @@
 <h3>Мой профиль на codewars:</h3>
 
 <a href="https://www.codewars.com/users/kkwicklss">
-<img src="https://www.codewars.com/users/kkwicklss/badges/large">
+<img src="https://www.codewars.com/users/kkwicklss/badges/medium">
 </a>
 
 ### Контакты
