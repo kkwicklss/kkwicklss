@@ -11,9 +11,7 @@
 
 <h3>Мой профиль на codewars:</h3>
 
-<a href="https://www.codewars.com/users/kkwicklss">
-<img src="https://www.codewars.com/users/kkwicklss/badges/medium">
-</a>
+![kkwicklss codewars badge](https://www.codewars.com/users/kkwicklss/badges/small)
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sssphinxcassiecage)
