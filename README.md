@@ -1,4 +1,5 @@
 ### Мой стек технологий
+![Swift](https://img.shields.io/badge/-Swift-333?style=for-the-badge&logo=Swift&logoColor=orange)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python&logoColor=blue)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=for-the-badge&logo=Pandas&logoColor=white)
