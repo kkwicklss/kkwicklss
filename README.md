@@ -1,5 +1,4 @@
 ### Мой стек технологий
-![Swift](https://img.shields.io/badge/-Swift-333?style=for-the-badge&logo=Swift&logoColor=orange)
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=MySQL&logoColor=blue)
 
